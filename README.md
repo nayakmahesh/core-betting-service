@@ -1,1 +1,1 @@
-# core-betting-service
+# my-test-service
